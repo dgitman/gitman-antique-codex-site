@@ -82,10 +82,6 @@ export function App() {
       </section>
 
       <section className="about-section" id="about" aria-labelledby="about-heading">
-        <div className="flyer-frame">
-          <img src="./assets/original-flyer.jpeg" alt="Original Gitman Antique Watches and Rarities printed advertisement" />
-          <p>The original Gitman advertisement</p>
-        </div>
         <div className="about-copy">
           <p className="section-label">A time-honoured reputation</p>
           <h2 id="about-heading">Howard Gitman</h2>
